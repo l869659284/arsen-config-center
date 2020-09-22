@@ -1,6 +1,6 @@
 # 配置dev环境
 server:
-  port:8084
+  port:8086
 
 # 添加一个标识用于测试
-flag: arsen@qq.com
+flag: 123456@qq.com
